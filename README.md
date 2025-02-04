@@ -9,7 +9,7 @@
 ---
 
 ## 시연영상
-TODO
+[유튜브 링크](https://youtu.be/lIVTU3Tcvj8)
 
 ---
 
